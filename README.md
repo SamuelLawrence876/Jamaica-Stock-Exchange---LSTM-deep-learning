@@ -1,1 +1,1 @@
-# Jamaica-Stock-Exchange---LTSM-deep-learning
+# Jamaica-Stock-Exchange-LTSM-deep-learning
